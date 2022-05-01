@@ -9,22 +9,22 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/img1.png
+    username : 양현주
+    description : 현주의 블로그에 오신걸 환영합니다
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-03-01
+        end : 2024-02-01
+        experience : 제주대학교, 컴퓨터교육과 재학중
     skills : 
-      - skill : HTML5 & CSS
+      - skill : 파이썬 & C언어 & 자바
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: "kimgr0504@gmail.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: rlarmfo
     gitlab: 
     bitbucket: 
     google_plus:
