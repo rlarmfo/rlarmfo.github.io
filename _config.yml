@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/img1.png
+    image : assets/img/img1.jpg
     username : 양현주
     description : 현주의 블로그에 오신걸 환영합니다
     experience :
